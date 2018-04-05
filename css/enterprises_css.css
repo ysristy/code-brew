@@ -1,0 +1,1321 @@
+/*Responsive of enterprises*/
+
+@media screen and (max-width: 767px) {
+
+/*Enterprises page*/
+  .footer_bg .row{text-align: center;}
+  .intro-header-enterprises{background-size: 100% !important;min-height: 150px !important;margin-bottom: 0px !important;}
+  .enter_hr{display: none;}
+  .footer_bg h4,.footer_bg_enter h4{text-align: center;}
+  .footer_bg_enter{text-align: center;}
+  .service_image_div .thumb{margin: 10px 0;}
+  .content-section-b{overflow: hidden;}
+  .testi_head_enter{margin-bottom: 50px !important;}
+
+
+  /* industries page*/
+  .intro-header-industries{min-height: 250px !important;background-size: 100% !important;}
+  .food_head{font-size: 40px !important;}
+  .food_content{text-align: center !important;}
+  .food_right_head{padding: 0 !important;text-align: center;}
+  .food_right ul {padding: 10px 40px !important;}
+  .intro-middle-industries h3,.intro-middle-industries h1{text-align: center !important;}
+  .content-section-b.food_heading{padding: 0 !important;}
+
+
+
+
+  /* iot page*/
+  .iot_bg{min-height: 200px !important;background-size: 100% !important;}
+  .mobi_head{font-size: 55px !important;margin-bottom: 30px;}
+  .intro-middle-iot h3,.intro-middle-iot h4,.mobi_sub_head,.iot_bg1 h3,.iot_bg1 h4,.rw,.rw p{text-align: center !important;padding:0 !important;}
+  .rw img{margin: 0px auto;}
+
+
+  /*mobility page*/
+.mobi-header-industries{min-height: 200px !important;background-size: 100% !important;margin-bottom: 0 !important;}
+.mobi_bg ul li{padding: 0 !important;font-size: 28px !important;}
+.mobi_bg ul{padding: 0 !important;}
+
+/*carrer page*/
+  .work-message >p,.career-inner-message >p{padding: 0 !important;}
+  .position_head{font-size: 54px !important;}
+  .career-inner-message > h1{font-size: 50px !important;padding: 0 !important;}
+  .career-inner-message button{font-size: 14px !important;}
+  /*.inner_content h3,.inner_content h1{text-align: center;}*/
+  .inner_content h1{padding: 0 !important;font-size: 40px !important;}
+  .inner_content ul{padding: 0 !important;}
+  .inner_button button{padding: 15px 25px !important;font-size: 14px !important;}
+
+
+/* travel page*/
+  .intro-header-travel{min-height: 250px !important;background-size: 100% !important;}
+  .travel_head{font-size: 40px !important;}
+  .travel_content{text-align: center !important;}
+  .travel_right_head{padding: 0 !important;text-align: center;}
+  .travel_right ul {padding: 10px 40px !important;}
+  .intro-middle-travel h3,.intro-middle-travel h1{text-align: center !important;}
+  .content-section-b.travel_heading{padding: 0 !important;}
+
+
+    /* health page*/
+  .intro-header-health{min-height: 250px !important;background-size: 100% !important;}
+  .health_head{font-size: 40px !important;}
+  .health_content{text-align: center !important;}
+  .health_right_head{padding: 0 !important;text-align: center;}
+  .health_right ul {padding: 10px 40px !important;}
+  .intro-middle-health h3,.intro-middle-health h1{text-align: center !important;}
+  .content-section-b.health_heading{padding: 0 !important;}
+
+
+    /* real estate page*/
+  .intro-header-real{min-height: 200px !important;background-size: 100% !important;}
+  .real_head{font-size: 40px !important;}
+  .real_content{text-align: center !important;}
+  .real_right_head{padding: 0 !important;text-align: center;}
+  .real_right ul {padding: 10px 40px !important;}
+  .intro-middle-real h3,.intro-middle-real h1{text-align: center !important;}
+  .content-section-b.real_heading{padding: 0 !important;}
+  .more_head{font-size: 38px !important;}
+
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+/*Enterprises page*/
+  .form textarea{
+    width: 100% !important;
+  }
+  .intro-header-enterprises{background-size: 100% !important;min-height: 320px !important;}
+  .service_image_div a{font-size: 18px !important;}
+   .content-section-b{overflow: hidden;}
+
+
+ /* industries page*/
+  .intro-header-industries{min-height: 450px !important;background-size: 100% !important;}
+  .food_right_head{padding: 0 !important;}
+  .food_right ul {padding: 10px 25px !important;}
+  .intro-middle-industries h3,.intro-middle-industries h1{text-align: center !important;}
+  .intro-middle-industries .col-lg-8{width: 100% !important;}
+  .bottom_industries{margin-bottom: 50px !important;}
+
+
+  /* iot page*/
+  .r_top{margin: 0px auto !important;}
+  .r_align,.mobi_sub_head,.c1,.intro-middle-iot h3,.intro-middle-iot h4{text-align: center !important;}
+  .iot_bg1 h3{padding: 0 !important;}
+  .iot_bg1,.intro-middle-iot{text-align: center;}
+
+
+  /*Travel page*/
+  .intro-header-travel{min-height: 450px !important;background-size: 100% !important;}
+  .travel_right_head{padding: 0 !important;}
+  .travel_right ul {padding: 10px 25px !important;}
+  .intro-middle-travel h3,.intro-middle-travel h1{text-align: center !important;}
+  .intro-middle-travel .col-lg-8{width: 100% !important;}
+  .bottom_travel{margin-bottom: 50px !important;}
+
+
+
+  /*Real page*/
+  .intro-header-real{min-height: 450px !important;background-size: 100% !important;}
+  .real_right_head{padding: 0 !important;}
+  .real_right ul {padding: 10px 25px !important;}
+  .intro-middle-real h3,.intro-middle-real h1{text-align: center !important;}
+  .intro-middle-real .col-lg-8{width: 100% !important;}
+  .bottom_real{margin-bottom: 50px !important;}
+
+
+  /*Health page*/
+  .intro-header-travel{min-height: 450px !important;background-size: 100% !important;}
+  .travel_right_head{padding: 0 !important;}
+  .travel_right ul {padding: 10px 25px !important;}
+  .intro-middle-travel h3,.intro-middle-travel h1{text-align: center !important;}
+  .intro-middle-travel .col-lg-8{width: 100% !important;}
+  .bottom_travel{margin-bottom: 50px !important;}
+
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+/*My css*/
+  .driving_div button{padding: 17px 80px; !important;left: 11% !important;margin-top: -50px !important;}
+.intro-header{margin-top: 70px !important;}
+
+}
+
+
+
+
+/* End Responsive of enterprises*/
+
+
+
+
+
+
+
+
+
+
+
+
+#flex_bottom .flex-control-nav{
+position:relative !important;
+bottom:0px;
+margin:0px auto;
+}
+.mobi_img{
+    margin: 0px auto;
+}
+
+
+
+
+
+/*Header*/
+.intro-middle-hospi{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_hospitality_i.jpg) no-repeat top center / cover;
+    margin-bottom: 60px;
+}
+
+
+.intro-middle-hospi h1{
+    font-size: 64px;
+    color: #fff;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 46px;
+    font-weight: 300;
+    padding: 0 35px 0 0;
+    margin: 100px 0 60px;
+
+}
+.intro-middle-hospi h3,.intro-middle-hsopi li{
+    font-size: 30px;
+    color: #fff;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 46px;
+    font-weight: 300;
+    padding: 0 35px 0 0;
+    margin: 25px 0;
+list-style-type:disc;
+     font-family: 'proxima_nova_rgbold'; 
+}
+.intro-middle-hospi h3 span{
+    font-weight: 500;
+}
+
+.intro-header-hospi{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_hospitality.jpg) no-repeat top center / cover ;
+   min-height: 696px;
+margin-top:-20px;
+    margin-bottom: 60px;
+}
+
+.pink_head,.pink_head ul li{
+color:#fabbc1 !important;
+
+}
+.cont_head.pink_head{
+  border-bottom: 4px solid #fabbc1 !important;  
+}
+
+
+
+
+
+
+/* travel page*/
+
+.intro-header-travel{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_travel.jpg) no-repeat top center / cover ;
+    
+    min-height: 575px;
+margin-top:-20px;
+    margin-bottom: 60px;
+
+}
+.travel_heading h3{
+    font-size:24px;
+    text-align: center;
+    color:#000;
+    line-height: 45px;
+    text-shadow:0px 0px 1px #eeeeee;
+      font-family: 'proxima_novalight'; 
+}
+
+.travel_head{
+    font-size: 64px;
+    color:#edb50e;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+       font-family: 'proxima_nova_rgbold'; 
+}
+
+.travel_content{
+    font-size: 18px;
+    text-align: justify;
+    line-height: 40px;
+    font-weight: 400;
+     font-family: 'proxima_novalight';   
+
+}
+
+.travel_right_head{
+    font-size: 32px;
+    color: #000;
+    line-height: 40px;
+    padding: 0 60px;
+    font-weight: 700;
+    word-spacing: 5px;
+    font-family: 'proxima_nova_rgbold'; 
+}
+.travel_right ul{
+    padding: 10px 110px;
+}
+
+.travel_right ul li{
+         font-size: 20px;
+    line-height: 40px;
+    padding: 5px 0;
+    color: #edb50e;
+    list-style-type:disc;
+     font-family: 'proxima_nova_rgbold';  
+}
+.travel_right ul li span {
+   
+     color: #333;
+     
+}
+
+  .intro-middle-travel{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_travel_yellow.jpg) no-repeat top center / cover;
+    margin-bottom: 60px;
+}
+
+.intro-middle-travel h1{
+    font-size: 64px;
+    color:#fff;
+   
+    letter-spacing: 4px;
+    text-align: left;
+    margin-top: 30px;
+
+}
+.intro-middle-travel h1{
+    font-size: 64px;
+    color: #fff;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 46px;
+    font-weight: 300;
+    padding: 0 35px 0 0;
+    margin: 100px 0 60px;
+}
+.intro-middle-travel h3,.intro-middle-travel li{
+    font-size: 30px;
+    color: #fff;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 46px;
+    font-weight: 300;
+    padding: 0 35px 0 0;
+    margin: 25px 0;
+      font-family: 'proxima_novalight';  
+}
+.intro-middle-travel h3 span{
+    font-weight: 500;
+}
+
+.bottom_travel{
+    margin-bottom: 150px;
+
+}
+.travel_should_head{
+    font-size: 50px;
+    margin: 60px 0; 
+    color: #edb50e;
+}
+
+.cont_head_yellow{
+    font-size: 64px;
+    color: #edb50e;
+    border-bottom: 4px solid #edb50e;
+    display: inline-block;
+line-height:126px;
+}
+
+.travel_list li{
+    color: #edb50e;
+    padding-left: 15px;
+}
+.travel_list li span{
+    color:#333;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+/*Education*/
+.intro-middle-edu{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_edu_i.jpg) no-repeat top center / cover;
+min-height:600px;
+margin-top:-20px;
+    margin-bottom: 60px;
+}
+
+
+.intro-middle-edu h1{
+    font-size: 64px;
+    color: #fff;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 46px;
+    font-weight: 300;
+    padding: 0 35px 0 0;
+    margin: 100px 0 60px;
+
+}
+.intro-middle-edu h3,.intro-middle-edu li{
+    font-size: 30px;
+    color: #fff;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 46px;
+    font-weight: 300;
+    padding: 0 35px 0 0;
+    margin: 25px 0;
+  font-family: 'proxima_novalight'; 
+}
+.intro-middle-edu h3 span{
+    font-weight: 500;
+}
+
+.intro-header-edu{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_edu.jpg) no-repeat top center / cover ;
+    min-height: 696px;
+margin-top:-20px;
+
+    margin-bottom: 60px;
+}
+
+.edu_head,.edu_head ul li{
+color:#003887 !important;
+
+}
+.cont_head.edu_head{
+    border-bottom: 4px solid #003887 !important;
+}
+.all_work{
+       width: 300px;
+    height: 68px;
+    background: #ba3e70;
+    position: absolute;
+    right: -113px;
+    top: 2150px;
+    padding: 0 44px;
+    transform: rotate(-90deg);
+-webkit-transform: rotate(-90deg);
+-moz-transform: rotate(-90deg);
+-o-transform: rotate(-90deg);
+-ms-transform: rotate(-90deg);
+}
+.all_work h1{
+
+ font-family: 'proxima_novalight'; 
+color:#fff;
+font-size:32px;
+}
+.all_work h1 a{
+color:#fff;
+}
+.all_work h1 a:hover,.all_work h1 a:active{
+color:#fff;
+text-decoration:none;
+}
+
+
+
+
+
+
+
+
+/* Real estate page*/
+
+.intro-header-real{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_real_estate.jpg) no-repeat top center / cover ;
+    min-height: 575px;
+
+margin-top:-20px;
+    margin-bottom: 60px;
+     font-family: 'proxima_nova_rgbold'; 
+}
+.real_heading h3{
+    font-size:24px;
+    text-align: center;
+    color:#000;
+    line-height: 45px;
+    text-shadow:0px 0px 1px #eeeeee;
+     font-family: 'proxima_novalight'; 
+}
+
+.real_head{
+    font-size: 64px;
+    color:#3ebf54;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+       
+        font-family: 'proxima_nova_rgbold';  
+}
+
+.real_content{
+    font-size: 18px;
+    text-align: justify;
+    line-height: 40px;
+    font-weight: 400;
+    font-family: 'proxima_novalight';
+
+}
+
+.real_right_head{
+    font-size: 32px;
+    color: #000;
+    line-height: 40px;
+    padding: 0 60px;
+    font-weight: 700;
+    word-spacing: 5px;
+    font-family: 'proxima_nova_rgbold'; 
+}
+.real_right ul{
+    padding: 10px 110px;
+}
+
+.real_right ul li{
+         font-size: 20px;
+    line-height: 40px;
+    padding: 5px 0;
+    color: #3ebf54;
+   list-style-type:disc;
+     font-family: 'proxima_nova_rgbold'; 
+}
+.real_right ul li span {
+   
+     color: #333;
+     
+}
+
+  .intro-middle-real{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_real_estate_blue.jpg) no-repeat top center / cover;
+    margin-bottom: 60px;
+}
+
+.intro-middle-real h1{
+    font-size: 64px;
+    color:#fff;
+   
+    letter-spacing: 4px;
+    text-align: left;
+    margin-top: 30px;
+
+}
+.intro-middle-real h1{
+    font-size: 64px;
+    color: #fff;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 46px;
+    padding: 0 35px 0 0;
+    margin: 100px 0 60px;
+      font-family: 'proxima_nova_rgbold'; 
+}
+.intro-middle-real h3,.intro-middle-real li{
+    font-size: 30px;
+    color: #fff;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 46px;
+    font-weight: 300;
+    padding: 0 35px 0 0;
+    margin: 25px 0;
+     font-family: 'proxima_novalight'; 
+}
+.intro-middle-real h3 span{
+    font-weight: 500;
+}
+
+.bottom_real{
+    margin-bottom: 150px;
+
+}
+.real_should_head{
+    font-size: 50px;
+    margin: 60px 0; 
+    color: #3ebf54;
+    font-family: 'proxima_nova_rgbold'; 
+}
+
+.cont_head_green{
+    font-size: 64px;
+    color: #3ebf54;
+    border-bottom: 4px solid #3ebf54;
+    display: inline-block;
+     font-family: 'proxima_nova_rgbold';
+line-height:126px;
+}
+
+.real_list li{
+    color: #3ebf54;
+    padding-left: 15px;
+}
+.real_list li span{
+    color:#333;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+/* Health page*/
+
+.intro-header-health{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_health.jpg) no-repeat top center / cover;
+    min-height: 575px;
+    margin-bottom: 60px;
+margin-top:-20px;
+}
+.health_heading h3{
+    font-size:24px;
+    text-align: center;
+    color:#000;
+    line-height: 45px;
+    text-shadow:0px 0px 1px #eeeeee;
+      font-family: 'proxima_novalight';
+}
+
+.health_head{
+    font-size: 64px;
+    color:#018adb;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+       font-family: 'proxima_novablack';
+}
+
+.health_content{
+    font-size: 18px;
+    text-align: justify;
+    line-height: 40px;
+    font-weight: 400;
+      font-family: 'proxima_novalight';
+
+}
+
+.health_right_head{
+    font-size: 32px;
+    color: #000;
+    line-height: 40px;
+    padding: 0 60px;
+    font-family: 'proxima_nova_rgbold'; 
+    word-spacing: 5px;
+}
+.health_right ul{
+    padding: 10px 110px;
+}
+
+.health_right ul li{
+         font-size: 20px;
+    line-height: 40px;
+    padding: 5px 0;
+    color: #018adb;
+     font-family: 'proxima_nova_rgbold'; 
+    list-style-type: disc;
+}
+.health_right ul li span {
+   
+     color: #333;
+     
+}
+
+  .intro-middle-health{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_health_blue.jpg) no-repeat top center / cover;
+    margin-bottom: 60px;
+}
+
+.intro-middle-health h1{
+    font-size: 64px;
+    color:#fff;
+   
+    letter-spacing: 4px;
+    text-align: left;
+    margin-top: 30px;
+
+}
+
+.intro-middle-health h3{
+    font-size: 32px;
+    color: #fff;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 46px;
+    font-weight: 300;
+    padding: 0 35px 0 0;
+    margin: 100px 0;
+    font-family: 'proxima_nova_rgbold'; 
+}
+.intro-middle-health h3 span{
+    font-weight: 500;
+}
+
+.bottom_health{
+    margin-bottom: 150px;
+
+}
+.health_should_head{
+    font-size: 50px;
+    margin: 60px 0; 
+    color: #018adb;
+    font-family: 'proxima_nova_rgbold'; 
+}
+
+.cont_head_blue{
+    font-size: 64px;
+    color: #018adb;
+    border-bottom: 4px solid #018adb;
+    display: inline-block;
+     font-family: 'proxima_nova_rgbold'; 
+line-height:126px;
+}
+
+.health_list li{
+    color: #018adb;
+    padding-left: 15px;
+}
+.health_list li span{
+    color:#333;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+/* Scm Page*/
+#scm_i{
+float:right;
+}
+
+#scm_ii{
+float:left;
+}
+
+.intro-header-scm{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_scm.jpg) no-repeat top center / cover ;
+    min-height: 696px;
+margin-top:-20px;
+    margin-bottom: 60px;
+}
+
+.srm_section{
+    padding: 0 !important;
+}
+
+.srm_section h1{
+    font-size: 48px;
+    margin: 60px 0;
+    font-family: 'proxima_nova_rgbold'; 
+}
+
+.srm_section ul{
+    padding: 0px 0 60px;
+}
+
+.srm_section h1.a1{
+    text-align: right;
+}
+
+/* CRM Page*/
+.intro-header-crm{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_crm.jpg) no-repeat top center / cover ;
+   /* background-position: 0 35px;*/
+    min-height: 600px;
+    margin-top:-20px;
+    margin-bottom: 60px;
+}
+
+.bg_crm_img{
+    margin: 0px auto;
+    float: right;
+}
+
+.crm_head {
+    font-size: 64px;
+    color: #9cc7e4;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+     font-family: 'proxima_nova_rgbold'; 
+}
+
+.crm_sub_head{
+    text-align: right;
+}
+
+.crm_bg1{
+
+    background: url(../images/images/bg_crm_ii.jpg) no-repeat top left ;
+
+    min-height: 900px;
+    
+}
+#crm_iii{
+float:right;
+}
+
+.crm_bg{
+    background-color: #9cc7e4;
+    color:#fff;
+    margin-bottom:100px;
+
+}
+
+.crm_bg h4{
+    font-size: 24px;
+    margin-bottom: 30px;
+    line-height: 32px;
+    font-weight: 400;
+    font-family: 'proxima_nova_rgbold';
+}
+.crm_bg ul li{
+    font-size: 24px;
+    color: #fff;
+    line-height: 40px;
+    font-weight: 400;
+    padding: 5px 0;
+      font-family: 'proxima_novalight';
+}
+
+.crm_bg ul {
+        padding: 0px 60px;
+}
+
+
+
+
+/* service mobility page */
+
+.mobi_sub_head{
+    font-size: 48px;
+    margin: 60px 0; 
+    color: #9cc7e4;
+        line-height: 60px;
+        font-family: 'proxima_nova_rgbold';
+}
+
+.mobi_head{
+    font-size: 64px;
+    color:#9cc7e4;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+        font-weight: bolder;
+       /* margin-bottom: 60px;*/
+        font-family: 'proxima_nova_rgbold';
+}
+
+.mobi_img{
+    margin: 0px auto;
+}
+
+.mobi-header-industries{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_mobility.jpg) no-repeat top center / cover;
+    min-height: 574px;
+
+    margin-bottom: 60px;
+margin-top:-50px;
+}
+
+.mobi_bg{
+    background-color: #9cc7e4;
+    color:#fff;
+}
+
+.mobi_bg h4{
+    font-size: 24px;
+    margin-bottom: 60px;
+    line-height: 32px;
+   font-family: 'proxima_nova_rgbold';
+}
+.mobi_bg ul li{
+    font-size: 40px;
+    color: #fff;
+    line-height: 60px;
+    font-weight: 400;
+    padding: 5px 0;
+     font-family: 'proxima_nova_rgbold';
+}
+
+.mobi_bg ul {
+        padding: 0px 60px;
+}
+.r_align{
+    text-align: right;
+}
+
+.c1 span{
+    font-weight: 700;
+}
+
+.r_float{
+    float: right;
+}
+
+
+
+/*internet of things page*/
+
+.iot_bg{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_iot.jpg) no-repeat top center / cover;
+    min-height: 574px;
+    margin-top:-20px;
+}
+
+.intro-middle-iot{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/iot_ii.jpg) no-repeat top center / cover;
+    margin-bottom: 60px;
+}
+
+.intro-middle-iot h3{
+    text-align: left;
+    font-size: 32px;
+    font-weight: 300;
+    margin: 60px 0 100px; 
+        padding: 0 30px 0 0;
+          font-family: 'proxima_novalight';
+         line-height: 45px;
+}
+
+.intro-middle-iot h3 span{
+    font-weight: 700;
+}
+.intro-middle-iot h4{
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 100px;
+    font-weight: 300;
+    padding-right: 60px;
+     font-family: 'proxima_novalight';
+     line-height: 40px;
+}
+
+.r_top{
+    margin-top: 100px;
+}
+
+.iot_sub_head {
+    font-size: 48px;
+    margin: 0px 0 60px;
+    color: #9cc7e4;
+    line-height: 60px;
+}
+
+
+.iot_bg1{
+    background-color: #9cc7e4;
+    color:#fff;
+}
+
+.iot_bg1 h3{
+    font-size: 32px;
+    margin-bottom: 60px;
+    padding: 0 70px 0 0;
+    line-height: 46px;
+     font-family: 'proxima_nova_rgbold';
+     margin-top: 0;
+}
+
+.iot_bg1 h4{
+    font-size: 32px;
+    margin-bottom: 60px;
+    padding: 0 70px 0 0;
+    line-height: 46px;
+    font-weight: 300;
+    margin-top: 0;
+     font-family: 'proxima_nova_rgbold';
+}
+
+.rw{
+    margin-bottom: 60px;
+}
+
+.rw h3{
+  margin-bottom: 30px;
+}
+
+.rw p{
+    line-height: 30px;
+    padding: 0 50px 0 0;
+    font-size: 18px;
+    font-weight: 300;
+     font-family: 'proxima_novalight';
+
+}
+.bbg{
+    margin: 100px 0;
+}
+
+.iot_bg2{
+    background-color: #f7f7f9;
+}
+
+
+
+
+
+
+ /*Industries page*/
+
+   .intro-header-industries{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/Food1_copy.png) no-repeat top center / cover;
+    min-height: 800px;
+    margin-bottom: 60px;
+margin-top:-20px;
+}
+.food_heading h3{
+    font-size:24px;
+    text-align: center;
+    color:#000;
+    line-height: 45px;
+    text-shadow:0px 0px 1px #eeeeee;
+     font-family: 'proxima_novalight';
+}
+
+.food_head{
+    font-size: 64px;
+    color:#ec3f26;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+     font-family: 'proxima_novablack';
+
+}
+
+.food_content{
+    font-size: 18px;
+    text-align: justify;
+    line-height: 40px;
+    font-weight: 400;
+     font-family: 'proxima_novalight';
+
+}
+
+.food_right_head{
+    font-size: 32px;
+    color: #000;
+    line-height: 40px;
+    padding: 0 60px;
+    font-weight: 700;
+   font-family: 'proxima_nova_rgbold';
+    word-spacing: 5px;
+}
+.food_right ul{
+    padding: 10px 110px;
+}
+
+.food_right ul li{
+     font-size: 20px;
+      line-height: 40px;
+      padding: 5px 0;
+      color: red;
+list-style-type:disc;
+       font-family: 'proxima_nova_rgbold';
+
+}
+.food_right ul li span {
+   
+     color: #333;
+     
+}
+
+  .intro-middle-industries{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_food_red.jpg) no-repeat top center / cover;
+    margin-bottom: 60px;
+}
+
+.intro-middle-industries h1{
+    font-size: 64px;
+    color:#fff;
+   
+    letter-spacing: 4px;
+    text-align: left;
+    margin-top: 30px;
+
+}
+
+.intro-middle-industries h3{
+    font-size: 32px;
+    color: #fff;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 46px;
+    padding: 0 35px 0 0;
+    margin: 100px 0;
+    font-family: 'proxima_novalight';
+}
+.intro-middle-industries h3 span{
+    font-family: 'proxima_nova_rgbold';
+}
+
+.bottom_industries{
+    margin-bottom: 50px;
+
+}
+.should_head{
+    font-size: 50px;
+    margin: 60px 0; 
+    color: #ec3f26;
+     font-family: 'proxima_nova_rgbold';
+}
+
+.c1{
+    margin: 30px 0;
+    font-family: 'proxima_novalight';
+}
+.c11{
+    font-family: 'proxima_nova_rgbold';
+}
+.cont_head{
+    font-size: 64px;
+
+    color: #ec3f26;
+    border-bottom: 4px solid #ec3f26;
+    display: inline-block;
+    font-family: 'proxima_nova_rgbold';
+        line-height: 126px;
+}
+
+.more_head{
+    font-size: 48px;
+    color: #000;
+    margin-bottom: 120px;
+     font-family: 'proxima_nova_rgbold';
+}
+
+
+
+
+
+/* Analytics */
+
+
+.intro-header-analytics{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_data.jpg) no-repeat top center / cover ;
+   min-height: 575px;
+margin-top:-20px;
+    margin-bottom: 60px;
+}
+
+.any_bg{
+    background-color: #9cc7e4;
+    color:#fff;
+    margin-bottom:100px;
+}
+
+.any_bg h4{
+    font-size: 24px;
+    margin-bottom: 30px;
+    line-height: 32px;
+     font-family: 'proxima_nova_rgbold';
+}
+.any_bg ul li{
+    font-size: 24px;
+    color: #fff;
+    line-height: 60px;
+    font-weight: 400;
+    padding: 5px 0;
+    font-family: 'proxima_novalight';
+}
+
+.any_bg ul {
+        padding: 0px 60px;
+}
+
+
+
+/* erp head*/
+
+.init_head{
+    color:#201e1a !important;
+    padding: 0 85px;
+    margin: 0px auto;
+    width: 80%;
+}
+.erp_bg ul li{
+    font-size: 32px;
+    color: #fff;
+    line-height: 40px;
+    font-weight: 400;
+    padding: 5px 0;
+    
+     font-family: 'proxima_nova_rgbold';
+}
+
+.erp_bg ul {
+        padding: 0px 60px;
+}
+
+.erp_bg p {
+    width: 70%;
+    margin-bottom: 60px;
+    font-weight: 300;
+    font-size: 18px;
+    font-family: 'proxima_novalight';
+    line-height: 30px;
+}
+
+.erp_bottom_head{
+    padding: 0px;
+    padding-bottom: 50px;
+}
+.flex_bottom{
+    overflow: hidden;
+}
+.erp_sub_head{
+     font-family: 'proxima_nova_rgbold' !important;  
+}
+
+
+
+.intro-header-erp{
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/images/bg_erp.jpg) no-repeat top center / cover ;
+    
+   min-height: 696px;
+margin-top:-20px;
+
+    margin-bottom: 60px;
+}
+
+.erp_sub_head {
+    font-size: 32px;
+    margin: 60px 0;
+    color: #9cc7e4 !important;
+    line-height: 60px;
+    text-align: right !important;
+    padding: 0 35px;
+    margin-top: 200px;
+    font-family: 'proxima_nova_rgbold';
+}
+img.r_align{float: right;}
+
+.erp_bg{
+    background: url(../images/images/bg_erp_ii.jpg) no-repeat top right #9cc7e4;
+    
+    color:#fff;
+   
+}
+.erp_bg h1{
+    font-size: 64px;
+    margin-bottom: 100px;
+    font-family: 'proxima_nova_rgbold';
+
+.erp_bg h4{
+    font-size: 24px;
+    margin-bottom: 30px;
+    line-height: 32px;
+    font-weight: 400;
+     font-family: 'proxima_novalight';
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

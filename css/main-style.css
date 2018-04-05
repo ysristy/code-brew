@@ -1,0 +1,26 @@
+.service_image_div .data{
+    position: relative important;
+    width: 100% important;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'proxima_novablack';
+    vertical-align: middle;
+    letter-spacing: 3px;
+    font-weight: 500;
+    margin: 0 auto;
+    float: left;
+    color: #676478;
+}
+.service_image_div .data1{
+    position: relative important;
+    width: 100% important;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'proxima_novablack';
+    vertical-align: middle;
+    letter-spacing: 3px;
+    font-weight: 500;
+    margin: 0 auto;
+    float: left;
+    color: #676478;
+}

@@ -1,0 +1,2527 @@
+ @media only screen and (max-width: 1280px) {
+.testimonials p{font-size:24px;line-height:34px;}
+.skp_left_container img,.fush_left_container img{margin-top:50px;}
+/* aqusitation css start*/  
+     
+.aqusitation {
+ padding: 4%;
+}
+.aqusitation h1 {
+ width: 100%;
+}
+.aqusitation p {
+ width: 100%;
+}
+ .app_making {
+ padding: 2%;
+}
+.core_elements h1 {
+ padding: 0 0 60px;
+}
+ .growth_hacking_right_container h1 {
+ font-size: 54px;
+}
+.hacking {
+ padding: 4%;
+}
+.hacking h1 {
+ width: 100%;
+}
+.hacking p {
+ width: 100%;
+}
+.launch_strategy {
+ padding: 2%;
+}
+ .app_effort {
+ padding: 4%;
+}
+.app_effort h1 {
+ width: 100%;
+}
+.app_effort p {
+ width: 100%;
+}
+
+/* aqusitation css end*/        
+
+
+.iterations {
+ padding: 4%;
+}
+.market_right_container h1 {
+ font-size: 54px;
+}
+.market .title {
+ padding: 54px 0;
+}
+.adjustments_left_container h1 {
+ font-size: 54px;
+}
+.adjustments_details .title {
+ padding: 62px 0;
+}
+ .new_feature_right_container h1 {
+ font-size: 54px;
+}
+.new_feature .title {
+ padding: 35px 0;
+}
+ .scaling_left_container h1 {
+ font-size: 54px;
+}
+.scaling_details .title {
+ padding: 40px 0;
+}
+.nurturing_right_container h1 {
+ font-size: 54px;
+}
+.nurturing .title {
+ padding: 43px 0;
+}
+ .investment_left_container {
+ /*height: 556px;*/
+}
+ .evaluation {
+ padding: 4%;
+}
+ .investment_right_container h1 {
+ font-size: 54px;
+}
+ .investment_right_container p {
+ margin-bottom: 6%;
+}
+.roadmap_left_container h1 {
+ font-size: 54px;
+}
+.roadmap_details .title {
+ padding: 54px 0;
+}
+ .wireframing_left_container h1 {
+font-size: 54px;
+}
+.wireframing_details p {
+ font-size: 26px;
+}
+.wireframing_details .title {
+ padding: 43px 0;
+}
+.brand_right_container h1 {
+font-size: 54px;
+}
+.brand_details p {
+ font-size: 26px;
+}
+.brand_details .title {
+ padding: 34px 0;
+}
+.prototyping_left_container h1 {
+font-size: 54px;
+}
+.prototyping_details p {
+ font-size: 26px;
+}
+ .prototyping_details .title {
+ padding: 41px 0;
+}
+ .research_left_container h1 {
+font-size: 54px;
+}
+.research_details p {
+font-size: 26px;
+}
+ .research_details .title {
+padding: 32px 0;
+}
+.scoping_right_container h1 {
+font-size: 54px;
+}
+.scoping_details p {
+font-size: 26px;
+}
+.scoping_details .title {
+padding: 37px 0;
+}
+.technovate_left_container h1 {
+font-size: 54px;
+}
+.technovate_details p {
+font-size: 26px;
+}
+.technovate_details .title {
+padding: 40px 0;
+}
+.business_right_container h1 {
+font-size: 54px;
+}
+.business_details p {
+font-size: 26px;
+}
+.business_details .title {
+padding: 40px 0;
+}
+}
+
+ @media screen and (max-width: 1024px) {
+	 
+.fush_phn {
+    right: 25px;
+}	 
+.skoop_phn {
+    left: 25px;
+}	 
+	
+.lokatrain_phn {
+    left: 25px;
+}	
+	 
+/* aqusitation css start*/  
+     
+.aqusitation {
+ padding: 4%;
+}
+.aqusitation h1 {
+ width: 100%;
+}
+.aqusitation p {
+ color: #fff;
+ width: 100%;
+}
+.app_making {
+ padding: 2%;
+}
+ .core_elements h1 {
+ padding: 0 0 60px;
+}
+ .growth_hacking_right_container {
+ padding: 8%;
+}
+.growth_hacking_right_container h1 {
+ font-size: 54px;
+}
+ .growth_hacking .title {
+ padding: 36px 0;
+}
+ .hacking {
+ padding: 2%;
+}
+ .hacking h1 {
+ width: 100%;
+}
+ .hacking p {
+ width: 100%;
+}
+ .launch_strategy {
+ padding: 2%;
+}
+ .app_effort {
+ padding: 2%;
+}
+ .app_effort h1 {
+ width: 100%;
+}
+ .app_effort p {
+ width: 100%;
+}
+ 
+ 
+/* aqusitation css end*/    
+     
+     
+     
+/* development css start*/  
+
+.ios_devp {
+ padding: 4%;
+}
+ .android_devp {
+ padding: 4%;
+}
+ .backend_devp {
+ padding: 4%;
+}
+
+/* development css end*/    
+
+
+ .market_right_container {
+ padding: 8%;
+}
+ .market_right_container h1 {
+ font-size: 54px;
+}
+ .market .title {
+ padding: 53px 0;
+}
+ .adjustments_left_container {
+ padding: 8%;
+}
+.adjustments_left_container h1 {
+ font-size: 54px;
+}
+ .adjustments_details .title {
+ padding: 20px 0;
+}
+ .new_feature_right_container {
+ padding: 8%;
+}
+ .new_feature_right_container h1 {
+ font-size: 54px;
+}
+ .new_feature .title {
+ padding: 36px 0;
+}
+ .scaling_left_container {
+ padding: 8%;
+}
+ .scaling_left_container h1 {
+ font-size: 54px;
+}
+ .scaling_details .title {
+ padding: 53px 0;
+}
+.nurturing_right_container {
+ padding: 8%;
+}
+.nurturing_right_container h1 {
+ font-size: 54px;
+}
+ .nurturing .title {
+ padding: 15px 0;
+}
+ .iterations {
+ padding: 4%;
+}
+ .more_text {
+ margin: 60px 0 0;
+}
+ .investment_right_container {
+ padding: 8%;
+}
+.investment_right_container h1 {
+ font-size: 54px;
+}
+ .roadmap_left_container {
+padding: 8%;
+}
+ .roadmap_left_container h1 {
+ font-size: 54px;
+}
+.roadmap_details .title {
+ padding: 42px 0;
+}
+.investment_right_container p {
+ margin-bottom: 8%;
+}
+.wireframing_left_container {
+padding: 8%;
+}
+.brand_right_container {
+padding: 8%;
+}
+.prototyping_left_container {
+padding: 8%;
+}
+ .wireframing_left_container h1 {
+font-size: 54px;
+}
+.wireframing_details p {
+ font-size: 26px;
+}
+.wireframing_details .title {
+ padding: 42px 0;
+}
+.brand_right_container h1 {
+font-size: 54px;
+}
+.brand_details p {
+ font-size: 26px;
+}
+.brand_details .title {
+ padding: 47px 0;
+}
+.prototyping_left_container h1 {
+font-size: 54px;
+}
+.prototyping_details p {
+ font-size: 26px;
+}
+ .prototyping_details .title {
+ padding: 41px 0;
+}
+ #header .header-content {
+ width: 90%;
+}
+ .person {
+ margin: 0 auto 50px;
+}
+ .person-content {
+ text-align: center;
+}
+ .person .social-icons li {
+ display: inline-block;
+ float: none;
+ margin-bottom: 5px;
+}
+ .testimonials blockquote {
+ padding: 20px 5% 0;
+}
+ .testimonials p {
+ font-size: 26px;
+}
+ .flex-control-nav {
+ bottom: 20px;
+}
+.hd_more {
+ margin:  0 209px 20px;
+}
+.warm_stage h2 {
+ font-size: 30px;
+}
+.game_stage h2 {
+ font-size: 30px;
+}
+ .skp {
+ padding: 0;
+}
+ .cl-effect-1 a span {
+margin: 50px 0;
+}
+ .fush {
+ padding: 0;
+}
+ .cl-effect-2 a span {
+margin: 50px 0;
+}
+ .lokatrain {
+ padding: 0;
+}
+ .cl-effect-3 a span {
+margin: 50px 0;
+}
+ .inner_work_text p {
+ padding: 30% 0 0;
+}
+ .inner_work h1 {
+ margin: 40px 0;
+}
+ #js-filters-awesome-work {
+ margin: 64px 0 0;
+}
+.research_left_container {
+padding: 8%;
+}
+.scoping_right_container {
+padding: 8%;
+}
+.technovate_left_container {
+padding: 8%;
+}
+.business_right_container {
+padding: 8%;
+}
+.research_left_container h1 {
+font-size: 54px;
+}
+.scoping_right_container h1 {
+font-size: 54px;
+}
+.technovate_left_container h1 {
+font-size: 54px;
+}
+.business_right_container h1 {
+font-size: 54px;
+}
+.scoping_details .title {
+padding: 50px 0;
+}
+.technovate_details .title {
+padding: 42px 0;
+}
+.business_details .title {
+padding: 16px 0;
+}
+.quotation p {
+font-size: 40px;
+width: 100%;
+}
+.left_quot {
+ left: 14px;
+ position: relative;
+ top: -3px;
+}
+ .right_quot {
+ position: relative;
+ right: 20px;
+ top: 62px;
+}
+}
+ @media only screen and (max-width: 980px) {
+
+/* aqusitation css start*/  
+
+.aqusitation_header img {
+ padding: 22% 0 0;
+}
+.growth_hacking .title {
+ padding: 39px 0;
+}
+ /* aqusitation css end*/   
+     
+     
+/* development css start*/  
+     
+.development_header img {
+ padding: 22% 0 0;
+}
+/* development css end*/    
+     
+
+ .hd_more {
+ margin: 0 126px 20px;
+}
+.choose_banner_text p {
+ padding: 27% 0 0;
+}
+ .navigation a {
+ margin-left: 22px;
+}
+figure {
+ height: 200px;
+}
+figcaption {
+ height: 79%;
+}
+figcaption h3 {
+ font-size: 18px;
+ margin-top: 21px;
+ padding: 10px 20px;
+}
+figcaption p {
+ font-size: 13px;
+ margin-bottom: 0;
+ margin-top: 0;
+ padding: 10px 20px;
+}
+.choose_us_content p {
+ min-height: 125px;
+}
+}
+ @media only screen and (max-width: 900px) {
+/* aqusitation css start*/
+     
+.growth_hacking_right_container h1 {
+ font-size: 45px;
+}
+/* aqusitation css end*/
+     
+     
+ .iterations_header img {
+ padding: 20% 0 0;
+}
+ .analytics_header img {
+ padding: 20% 0 0;
+}
+ .market .title {
+ padding: 50px 0;
+}
+ .adjustments_details .title {
+ padding: 17px 0;
+}
+.new_feature .title {
+ padding: 19px 0;
+}
+.scaling_details .title {
+ padding: 6px 0;
+}
+.nurturing .title {
+ padding: 0;
+}
+.nurturing_left_container {
+ height: 580px;
+}
+ .investment_right_container h1 {
+ font-size: 44px;
+}
+ .roadmap_left_container h1 {
+ font-size: 44px;
+}
+ .investment_right_container p {
+ margin-bottom: 15%;
+}
+.roadmap_details .title {
+ padding: 55px 0;
+}
+ .business_details .title {
+ padding: 24px 0;
+}
+ .business_right_container h1 {
+ font-size: 44px;
+}
+.technovate_details .title {
+ padding: 27px 0;
+}
+ .technovate_left_container h1 {
+ font-size: 44px;
+}
+ .scoping_right_container h1 {
+ font-size: 44px;
+}
+.scoping_details .title {
+ padding: 58px 0;
+}
+.research_left_container h1 {
+ font-size: 44px;
+}
+.research_details .title {
+ padding: 22px 0;
+}
+ .wireframing_left_container h1 {
+font-size: 44px;
+}
+.wireframing_details .title {
+padding: 45px 0;
+}
+ .brand_right_container h1 {
+font-size: 44px;
+}
+ .brand_details .title {
+padding: 55px 0;
+}
+.prototyping_left_container h1 {
+ font-size: 44px;
+}
+ .prototyping_details .title {
+ padding: 61px 0;
+}
+}
+ @media only screen and (max-width: 800px) {
+
+	 
+.lokatrain_left_container {
+    width: 100%;
+}	 
+	 
+.lokatrain_phn {
+ 	margin:0px auto;
+    top: 10px;
+    width: 50% !important;
+}	 
+	 
+.lokatrain_right_container {
+    margin: 20px auto;
+    text-align: center;
+    width: 100%;
+}	 
+.lokatrain_logo {
+    height: 141px;
+    margin: 20px auto 0;
+    width: 15% !important;
+}	 
+.lokatrain_right_container h1 {
+   
+    font-size: 40px;
+  
+}	 
+.lokatrain_right_container p {
+  
+    margin: 10px auto;
+    text-align: center;
+    width: 80%;
+}	
+	
+	 
+.fush_left_container {
+    width: 100%;
+}	 
+	 
+.fush_phn {
+ 	margin:0px auto;
+    top: 10px;
+    width: 50% !important;
+}	 
+	 
+.fush_right_container {
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}	 
+.fush_logo {
+    height: 141px;
+    margin: 20px auto 0;
+    width: 15% !important;
+}	 
+.fush_right_container h1 {
+   
+    font-size: 40px;
+  
+}	 
+.fush_right_container p {
+  
+    margin: 10px auto;
+    text-align: center;
+    width: 80%;
+}	
+	 
+.skp_left_container {
+    width: 100%;
+}	 
+	 
+.skoop_phn {
+ 	margin:0px auto;
+    top: 10px;
+    width: 50% !important;
+}	 
+	 
+.skp_right_container {
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}	 
+.skoop_logo {
+    height: 141px;
+    margin: 20px auto 0;
+    width: 15% !important;
+}	 
+.skp_right_container h1 {
+   
+    font-size: 40px;
+  
+}	 
+.skp_right_container p {
+  
+    margin: 0px auto;
+    text-align: center;
+    width: 80%;
+}	
+ 
+.app_links {
+    margin: 10px 0;
+}	 
+	 
+.app_links img {
+    float: left;
+    width: 100% !important;
+}	 
+
+.navbar-header{}
+
+
+	
+.nav > li > a {
+    padding: 10px 14px;
+}	
+.navbar-nav > li > a {
+    font-size: 12px;
+    padding-bottom: 16px;
+    padding-top: 25px;
+    text-align: center;
+}
+.navbar-collapse{
+   /* display: inline-block !important;*/
+    width: 100% !important;
+}
+
+.talk_btn-large {
+    margin-left: 2px;
+    margin-top: 12px;
+    padding: 10px 10px !important;
+	margin-right: 17px;
+}
+
+
+
+	 
+ .col-demo {
+ position: relative;
+ width: 100%;
+}
+.ic_arrow {
+display:none;
+}
+ .team_section {
+ padding: 70px 10px;
+}
+ .team_section h1 {
+ font-size: 48px;
+ margin: 10px 0 50px;
+}
+ .team_section p {
+ font-size: 24px;
+ line-height: 36px;
+ width: 100%;
+}
+
+
+    /* aqusitation css start*/
+.aqusitation {
+ padding: 4%;
+}
+.aqusitation h1 {
+ font-size: 36px;
+ width: 100%;
+}
+.aqusitation p {
+ font-size: 22px;
+ line-height: 30px;
+ padding: 5% 0 0;
+ width: 100%;
+}
+.app_making {
+ padding: 2%;
+}
+ .app_making h1 {
+ font-size: 34px;
+ text-align: center;
+ width: 100%;
+}
+ .core_elements h1 {
+ font-size: 40px;
+ padding: 0 0 40px;
+}
+ .core_elements h2 {
+ font-size: 20px;
+ min-height: 80px;
+ width: 100%;
+}
+.core_elements p {
+ font-size: 16px;
+ width: 100%;
+}
+ .growth_hacking_right_container {
+ padding: 5%;
+}
+ .growth_hacking_right_container h1 {
+ font-size: 44px;
+}
+.market_right_container p {
+ color: #fff;
+ font-size: 18px;
+ padding: 4% 0;
+}
+.growth_hacking .title {
+ padding: 22px 0;
+}
+.growth_hacking_details p {
+ font-size: 26px;
+}
+ .hacking {
+ padding: 2%;
+}
+.hacking h1 {
+ font-size: 36px;
+ width: 100%;
+}
+.hacking p {
+ font-size: 22px;
+ line-height: 30px;
+ width: 100%;
+}
+ .hacking p span {
+ font-size: 18px;
+ width: 100%;
+}
+.launch_strategy {
+ padding: 2%;
+}
+.launch_strategy h1 {
+ font-size: 40px;
+}
+.launch_strategy p {
+ font-size: 22px;
+ line-height: 30px;
+ padding: 2% 0;
+ width: 100%;
+}
+.launch_strategy p span {
+ font-size: 18px;
+}
+.app_effort {
+ padding: 2%;
+}
+.app_effort h1 {
+ font-size: 34px;
+ width: 100%;
+}
+ .app_effort p {
+ font-size: 22px;
+ line-height: 30px;
+ width: 100%;
+}
+.app_effort p span {
+ font-size: 18px;
+}
+
+
+/* aqusitation css end*/    
+
+
+
+
+/* development css start*/  
+.development_header img {
+ padding: 22% 0 0;
+}
+.ios_devp h1 {
+font-size: 44px;
+}
+.ios_devp p {
+ font-size: 28px;
+ padding: 20px 0;
+}
+.ios_devp span {
+ font-size: 20px;
+}
+ .ios_devp img {
+margin-bottom: 20px;
+}
+ .ios_devp {
+padding:4%;
+}
+ .android_devp h1 {
+font-size: 44px;
+}
+.android_devp p {
+ font-size: 28px;
+ padding: 20px 0;
+}
+.android_devp span {
+ font-size: 20px;
+}
+ .backend_devp img {
+margin-bottom: 20px;
+}
+ .backend_devp {
+padding:4%;
+}
+ .backend_devp h1 {
+font-size: 44px;
+}
+.backend_devp p {
+ font-size: 28px;
+ padding: 20px 0;
+}
+.backend_devp span {
+ font-size: 20px;
+}
+ .android_devp img {
+margin-bottom: 20px;
+}
+ .android_devp {
+padding:4%;
+}
+ .develp_process h1 {
+font-size: 40px;
+}
+.other_services h1 {
+ font-size: 35px;
+ margin: 25px 0;
+}
+
+
+/* development css end*/    
+.choose_banner_text p {
+ padding: 27% 0 0;
+}
+ .navigation a {
+ margin-left: 22px;
+}
+figure {
+ height: 200px;
+}
+figcaption {
+ height: 79%;
+}
+figcaption h3 {
+ font-size: 18px;
+ margin-top: 21px;
+ padding: 10px 20px;
+}
+figcaption p {
+ font-size: 13px;
+ margin-bottom: 0;
+ margin-top: 0;
+ padding: 10px 20px;
+}
+.choose_us_content p {
+ min-height: 125px;
+}
+.warm_stage h2 {
+ font-size: 30px;
+}
+.game_stage h2 {
+ font-size: 30px;
+}
+ .year {
+ font-size: 18px;
+}
+ .cl-effect-1 a span {
+margin: 40px 0;
+}
+ .year {
+ font-size: 18px;
+}
+ .cl-effect-2 a span {
+margin: 40px 0;
+}
+ .year {
+ font-size: 18px;
+}
+ .cl-effect-3 a span {
+margin: 40px 0;
+}
+ .inner_work_text p {
+ font-size: 22px;
+ padding: 30% 0 0;
+}
+.inner_work h1 {
+ margin: 40px 0;
+}
+ #js-filters-awesome-work {
+ margin: 64px 0 0;
+}
+ .col-responsive {
+width:100%;
+}
+}
+
+
+
+ @media only screen and (max-width: 768px) {
+.testimonials{width:95% !important;}
+ .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+ background-color: #fff !important;
+ border-bottom: 2px solid #4c5bea !important;
+ color: #4c5bea !important;
+}
+ section .container {
+width: auto;
+}
+ .navigation a {
+ margin-left: 20px;
+}
+.work {
+ min-height: auto;
+}
+.choose_banner_text p {
+ padding: 27% 0 0;
+}
+ .choose_us_content p {
+ min-height: 125px;
+}
+figure {
+ height: auto;
+}
+figcaption {
+ height: 100%;
+}
+figcaption h3 {
+ font-size: 18px;
+ margin-top: 21px;
+ padding: 10px 20px;
+}
+figcaption p {
+ font-size: 13px;
+ margin-bottom: 0;
+ margin-top: 0;
+ padding: 10px 20px;
+}
+ .col-responsive {
+width:100%;
+}
+
+
+
+
+   
+}
+ @media screen and (max-width: 768px) {
+ .adjustments_left_container h1, .market_right_container h1, .iterations h1, .investment_right_container h1, .roadmap_left_container h1, .evaluation h1, .wireframing_left_container h1, .prototyping_left_container h1 {
+font-size: 40px;
+}
+#investment, #roadmap {
+text-align: center;
+}
+.analytics_header img {
+margin:0px auto;
+}
+ .navbar-nav > li > a {
+ font-size: 12px;
+ padding-bottom: 16px;
+ padding-top: 16px;
+ text-align: center;
+}
+ .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+ background-color: #4c5bea;
+ border-bottom: none;
+ color: #fff;
+}
+ .banner-text {
+ padding-top: 30%;
+}
+ .banner-text h1 {
+ font-size: 42px;
+ padding: 0 !important;
+}
+ .more_text {
+ font-size: 42px;
+ margin: 60px 0;
+}
+.talk a {
+ font-size: 80px !important;
+}
+ .banner-text p {
+ font-size: 18px;
+}
+ .flexslider {
+ padding-bottom: 80px;
+}
+ .flex-control-nav {
+ width: 100%;
+}
+ .footer .footer-col {
+ margin-bottom: 50px;
+}
+ .ic_arrow {
+ right: -15px;
+}
+.game_stage h2 {
+font-size:40px;
+}
+.warm_stage h2 {
+ font-size: 30px;
+}
+.challenge h1 {
+ font-size: 34px;
+}
+.hd_more {
+ margin: 0 124px 20px;
+}
+ .year {
+ font-size: 18px;
+}
+ .cl-effect-1 a span {
+margin: 40px 0;
+}
+ .year {
+ font-size: 18px;
+}
+ .cl-effect-2 a span {
+margin: 40px 0;
+}
+ .year {
+ font-size: 18px;
+}
+ .cl-effect-3 a span {
+margin: 40px 0;
+}
+ .inner_work_text p {
+ font-size: 22px;
+ padding: 30% 0 0;
+}
+.inner_work h1 {
+ margin: 40px 0;
+}
+ #js-filters-awesome-work {
+ margin: 64px 0 0;
+}
+}
+ @media screen and (max-width: 767px) {
+
+.last_row .col-sm-3,.last_right{
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+}
+.features h2, .teams h2, .testimonials h2, .works h2, .footer h2{
+    font-size: 40px;
+}
+.banner-text h1{
+    margin-top: 170px;
+}
+
+
+.alignnone{
+    width: 100%;
+}    
+#talk .col-lg-12 .container{
+    width: auto;
+}
+
+.input_div input[type="text"]{
+    font-size: 14px;
+}
+.btn-orange-big{
+    font-size: 14px;
+        padding: 15px 0;
+}
+
+.testimonials{width:95% !important;}
+.banner-text{padding-top:0 !important;}
+.navbar-collapse{float: left;
+    width: 110% !important;background:#fff;}
+.input{width:100% !important;}
+.nav-toggle {
+ display: block;
+}
+.submit
+{
+    font-size: 12px;
+letter-spacing:0px !important;
+}
+.teams{
+text-align:center;
+}
+.warm_img {
+top:45px;
+margin:0px auto;
+}
+.work {
+ min-height: auto;
+}
+.services_blocks >div {
+ padding: 0px;
+}
+
+/*.footer-bottom{display: inline-block;}*/
+.st img {
+ width:70px;
+ height: auto;
+}
+ .navigation {
+ position: fixed;
+ background-color: #000;
+ width: 100%;
+ height: 100%;
+ top: 0;
+ left: 0;
+ z-index: 99999;
+ visibility: hidden;
+ opacity: 0;
+ -webkit-transition: opacity 0.5s, visibility 0s 0.5s;
+ transition: opacity 0.5s, visibility 0s 0.5s;
+}
+ .navigation .primary-nav {
+ position: relative;
+ top: 45%;
+ -moz-transform: translateY(-45%);
+ -ms-transform: translateY(-45%);
+ -webkit-transform: translateY(-45%);
+ transform: translateY(-45%);
+}
+ .navigation li {
+ display: block;
+ margin-bottom: 20px;
+}
+.dropdown-menu > li {
+}
+ .navigation a {
+ display: block;
+ font-size: 16px;
+ margin: 0;
+ text-align: center;
+}
+ .quotes {
+ left: 15px;
+ padding: 2%;
+ position: absolute;
+ top: 147px;
+ width: 91%;
+}
+ .ic_arrow {
+display:none;
+}
+.col-demo {
+width:100%;
+}
+.footer p {
+ text-align: center;
+}
+.talk_btn {
+ border: 2px solid #fff;
+ border-radius: 0;
+
+ margin-bottom:10px;
+}
+}
+ @media screen and (max-width:767px) {
+ .col-xs-15 {
+ width: 100%;
+}
+
+.teams .col-md-4 img{
+ margin:0px auto;
+}
+
+}
+@media screen and (max-width: 640px) {
+
+.lokatrain {
+    padding: 2% 4% !important;
+}	
+.lokatrain_phn {
+    margin: 0 auto;
+    top: 0;
+    width: 50% !important;
+}	
+.lokatrain_right_container {
+    margin: 0 !important;
+}	
+	
+.lokatrain_logo {
+    margin: 20px auto 0 !important;
+    width: 20% !important;
+}	
+
+.lokatrain_right_container p {
+   text-align: center;
+    width: 100%;
+}
+	
+.fush {
+    padding: 2% 4% !important;
+}	
+.fush_phn {
+    margin: 0 auto;
+    top: 0;
+    width: 50% !important;
+}	
+.fush_right_container {
+    margin: 0 !important;
+}	
+	
+.fush_logo {
+    margin: 20px auto 0 !important;
+    width: 20% !important;
+}	
+
+.fush_right_container p {
+   text-align: center;
+    width: 100%;
+}	
+	
+	
+.skp {
+    padding: 2% 4% !important;
+}	
+.skoop_phn {
+    margin: 0 auto;
+    top: 0;
+    width: 50% !important;
+}	
+.skp_right_container {
+    margin: 0 !important;
+}	
+	
+.skoop_logo {
+    margin: 20px auto 0 !important;
+    width: 20% !important;
+}	
+
+.skp_right_container p {
+   text-align: center;
+    width: 100%;
+}
+	
+.app_links {
+    margin: 20px 0 !important;
+}	
+.app_links img {
+    
+    margin-right: 10px;
+    width: 46% !important;
+}	
+	
+	
+	
+.team_section {
+ padding: 32px;
+}
+ .team_section h1 {
+ font-size: 32px;
+ margin: 10px 0 20px;
+}
+ .team_section p {
+ font-size: 18px;
+ font-size: 20px;
+ line-height: 30px;
+}
+	
+/* aqusitation css start*/  
+.aqusitation {
+ padding: 5%;
+}
+ .aqusitation p {
+ font-size: 24px;
+ line-height: 30px;
+ width: 100%;
+}
+.aqusitation h1 {
+ font-size: 34px;
+ width: 100%;
+}
+.app_making h1 {
+ font-size: 34px;
+ text-align: center;
+ width: 100%;
+}
+.core_elements h1 {
+ font-size: 38px;
+ padding: 0 0 24px;
+}
+.element {
+ min-height: 265px;
+}
+ .growth_hacking_right_container {
+ padding: 5%;
+}
+.growth_hacking_right_container h1 {
+ font-size: 44px;
+}
+.growth_hacking_details p {
+ font-size: 26px;
+}
+.growth_hacking .title {
+ padding: 22px 0;
+}
+.hacking {
+ padding: 5%;
+}
+.hacking h1 {
+ font-size: 30px;
+ width: 100%;
+}
+ .hacking p {
+ font-size: 22px;
+ line-height: 30px;
+ width: 100%;
+}
+ .hacking p span {
+ font-size: 18px;
+ width: 100%;
+}
+ .launch_strategy h1 {
+ font-size: 40px;
+}
+.launch_strategy p {
+ font-size: 22px;
+ line-height: 30px;
+ width: 100%;
+}
+ .launch_strategy p span {
+ font-size: 18px;
+}
+.launch_strategy img {
+ width: 50%;
+}
+ .app_effort {
+ padding: 5%;
+}
+.app_effort h1 {
+ font-size: 34px;
+ width: 100%;
+}
+.app_effort p span {
+ font-size: 18px;
+}
+.extra_margin1 {
+ margin-bottom: 13%;
+}
+/* aqusitation css end*/    
+
+
+
+/* development css start*/  
+
+ .ios_devp h1 {
+font-size: 40px;
+}
+.ios_devp p {
+ font-size: 26px;
+ padding: 20px 0;
+}
+.ios_devp span {
+ font-size: 20px;
+}
+ .ios_devp img {
+margin-bottom: 20px;
+}
+ .ios_devp {
+padding:3%;
+}
+ .android_devp h1 {
+font-size: 40px;
+}
+.android_devp p {
+ font-size: 26px;
+ padding: 20px 0;
+}
+.android_devp span {
+ font-size: 20px;
+}
+ .android_devp img {
+margin-bottom: 20px;
+}
+ .android_devp {
+padding:3%;
+}
+ .backend_devp h1 {
+font-size: 40px;
+}
+.backend_devp p {
+ font-size: 26px;
+ padding: 20px 0;
+}
+.backend_devp span {
+ font-size: 20px;
+}
+ .backend_devp img {
+margin-bottom: 20px;
+}
+ .backend_devp {
+padding:3%;
+}
+ .develp_process h1 {
+ font-size: 32px;
+ padding: 2% 0;
+}
+ .develp_process img {
+margin-top:20px;
+}
+ .other_services h1 {
+ font-size: 38px;
+ margin: 30px 0;
+}
+
+/* development css end*/    
+
+ .iterations {
+ padding: 5%;
+}
+.iterations h1 {
+ font-size: 34px;
+ width: 100%;
+}
+.iterations p {
+ font-size: 18px;
+ width: 100%;
+}
+ .iterations_header img {
+ padding: 25% 0 0;
+}
+.iterations_header h1 {
+ font-size: 30px;
+}
+.iterations_header p {
+ font-size: 18px;
+}
+.iterations {
+ padding: 5%;
+}
+ .iterations h1 {
+ font-size: 30px;
+ width: 100%;
+}
+.iterations p {
+ font-size: 18px;
+ width: 100%;
+}
+ .market_right_container {
+ padding: 5%;
+}
+ .market_right_container h1 {
+ font-size: 44px;
+}
+ .market .title {
+ padding: 22px 0;
+}
+.market_details p {
+ font-size: 26px;
+}
+.adjustments_left_container {
+ padding: 5%;
+}
+.adjustments_left_container h1 {
+ font-size: 44px;
+}
+ .adjustments_details p {
+ font-size: 26px;
+}
+.adjustments_details .title {
+ padding: 22px 0;
+}
+ .new_feature_right_container {
+ padding: 5%;
+}
+ .new_feature_right_container h1 {
+ font-size: 44px;
+}
+ .new_feature_details p {
+ font-size: 26px;
+}
+.new_feature .title {
+ padding: 22px 0;
+}
+ .scaling_left_container {
+ padding: 5%;
+}
+ .scaling_left_container h1 {
+ font-size: 44px;
+}
+ .scaling_details p {
+ font-size: 26px;
+}
+ .scaling_details .title {
+ padding: 22px 0;
+}
+.nurturing_right_container {
+ padding: 5%;
+}
+.nurturing_right_container h1 {
+ font-size: 44px;
+}
+.nurturing_details p {
+ font-size: 26px;
+}
+ .nurturing .title {
+ padding: 22px 0;
+}
+ .services_header h1 {
+ font-size: 44px;
+}
+.evaluation {
+ padding: 5%;
+}
+ .evaluation h1 {
+ font-size: 34px;
+ width: 100%;
+}
+.evaluation p {
+ font-size: 18px;
+ width: 100%;
+}
+ .investment_right_container {
+ padding: 5%;
+}
+ .investment_right_container h1 {
+ font-size: 44px;
+}
+.roadmap_left_container h1 {
+ font-size: 44px;
+}
+ .roadmap_left_container {
+ padding: 5%;
+}
+ .roadmap_details p {
+ font-size: 26px;
+}
+.roadmap_details .title {
+ padding: 22px 0;
+}
+ #talk h1 {
+font-size: 50px;
+}
+ .wireframing_left_container {
+padding: 5%;
+}
+.brand_right_container {
+padding: 5%;
+}
+.prototyping_left_container {
+padding: 5%;
+}
+.wireframing_left_container h1 {
+font-size: 44px;
+}
+.wireframing_details .title {
+padding: 22px 0;
+}
+.wireframing_details p {
+font-size: 26px;
+}
+.brand_right_container h1 {
+font-size: 44px;
+}
+.brand_details p {
+ font-size: 26px;
+}
+ .brand_details .title {
+padding: 22px 0;
+}
+.prototyping_left_container h1 {
+ font-size: 44px;
+}
+.prototyping_details .title {
+padding: 22px 0;
+}
+ .prototyping_details p {
+font-size: 26px;
+}
+ .navbar-brand {
+    padding: 25px 10px;
+    float: none;
+
+}
+
+.navbar-brand img{
+width:60% !important;
+padding-top: 15px;
+margin-left:15px;
+    display: inline-block;
+}
+ .quotation {
+ padding: 0;
+}
+ .left_quot {
+ left: 12px;
+ position: relative;
+ top: 37px;
+}
+.quotation img {
+ width: 7%;
+}
+.quotation p {
+font-size: 28px;
+}
+ .right_quot {
+ position: relative;
+ right: -519px;
+ top: -156px;
+}
+ .research_left_container {
+padding: 5%;
+}
+.scoping_right_container {
+padding: 5%;
+}
+.technovate_left_container {
+padding: 5%;
+}
+.business_right_container {
+padding: 5%;
+}
+ .ic_poly {
+display:none;
+}
+.hd_more {
+ margin: 0 200px 34px;
+}
+ .banner-text {
+ padding-top: 35%;
+}
+.how_it_content {
+ text-align: center;
+}
+.text-right {
+ text-align: center;
+}
+ 
+ .cl-effect-1 a span {
+margin: 50px 0 !important;
+}
+ 
+ .cl-effect-2 a span {
+margin: 50px 0 !important;
+}
+ 
+ .cl-effect-3 a span {
+margin: 50px 0 !important;
+}
+ .inner_work h1 {
+ margin: 40px 0;
+}
+#js-filters-awesome-work {
+ margin: 40px 0 0;
+}
+}
+@media screen and (max-width: 480px) {
+
+.lokatrain {
+ padding: 2% 4% !important;
+}
+ .lokatrain_phn {
+ top: 0;
+}
+.lokatrain_right_container {
+ margin: 0px 0;
+}
+.lokatrain_logo {
+ margin: 8px auto 0;
+ width:20% !important;
+}
+.lokatrain_right_container h1 {
+ font-size: 30px;
+}
+.lokatrain_right_container p {
+ font-size: 14px;
+ margin: 10px auto;
+ text-align: center;
+ width: 100%;
+}
+
+
+	
+.fush {
+ padding: 2% 4% !important;
+}
+ .fush_phn {
+ top: 0;
+}
+.fush_right_container {
+ margin: 0px 0;
+}
+.fush_logo {
+ margin: 8px auto 0;
+ width:20% !important;
+}
+.fush_right_container h1 {
+ font-size: 30px;
+}
+.fush_right_container p {
+ font-size: 14px;
+ margin: 10px auto;
+ text-align: center;
+ width: 100%;
+}
+	
+	
+ .skp {
+ padding: 2% 4% !important;
+}
+ .skoop_phn {
+ top: 0;
+}
+.skp_right_container {
+ margin: 8px 0;
+}
+.skoop_logo {
+ margin: 8px auto 0;
+ width:20% !important;
+}
+.skp_right_container h1 {
+ font-size: 30px;
+}
+.skp_right_container p {
+ font-size: 14px;
+ margin: 10px auto;
+ text-align: center;
+ width: 100%;
+}
+.app_links {
+ margin: 10px 0;
+}
+.app_links img {
+ float: left;
+ margin: 0 8px auto;
+ width: 45% !important;
+}
+ .flexslider .slides > li {
+ display: none;
+ margin-bottom: 80px;
+}
+.testimonials p {
+ font-size: 16px;
+}
+ .team_section {
+ padding: 20px;
+}
+ .team_section h1 {
+ font-size: 30px;
+ margin: 10px 0 40px;
+}
+ .team_section p {
+ font-size: 18px;
+ line-height: 25px;
+ width: 100%;
+}
+
+
+/* development css start*/  
+.development_header img {
+ padding: 28% 0 0;
+}
+ .development_header h1 {
+ font-size: 30px;
+}
+.development_header p {
+ font-size: 18px;
+}
+ .android_devp {
+ padding: 3%;
+}
+ .android_devp h1 {
+ font-size: 30px;
+ margin: 20px 0;
+}
+.android_devp p {
+ font-size: 20px;
+ line-height: 30px;
+ padding: 14px 0;
+}
+ .android_devp span {
+ font-size: 16px;
+ line-height: 25px;
+}
+ .android_devp img {
+margin-top:20px;
+}
+ .backend_devp {
+ padding: 3%;
+}
+ .backend_devp h1 {
+ font-size: 30px;
+ margin: 20px 0;
+}
+.backend_devp p {
+ font-size: 20px;
+ line-height: 30px;
+ padding: 14px 0;
+}
+ .backend_devp span {
+ font-size: 16px;
+ line-height: 25px;
+}
+.backend_devp img {
+margin-top:20px;
+}
+ .ios_devp {
+ padding: 3%;
+}
+ .ios_devp h1 {
+ font-size: 30px;
+ margin: 20px 0;
+}
+.ios_devp p {
+ font-size: 20px;
+ line-height: 30px;
+ padding: 14px 0;
+}
+ .ios_devp span {
+ font-size: 16px;
+ line-height: 25px;
+}
+.develp_process h1 {
+ color: #676478;
+ font-family: "proxima_novablack";
+ font-size: 27px;
+ padding: 1% 0;
+}
+ .develp_process p {
+ font-size: 16px;
+}
+ .develp_process img {
+ margin-top: 20px;
+}
+/* development css end*/    
+
+
+/* aqusitation css start */
+.aqusitation_header img {
+ padding: 22% 0 0;
+}
+.aqusitation {
+ padding: 5%;
+}
+.aqusitation_header h1 {
+font-size: 30px;
+}
+.aqusitation_header p {
+font-size: 18px;
+}
+.aqusitation h1 {
+ font-size: 30px;
+ width: 100%;
+}
+ .aqusitation p {
+ font-size: 22px;
+ line-height: 30px;
+ width: 100%;
+}
+ .app_making h1 {
+ font-size: 30px;
+ text-align: center;
+ width: 100%;
+}
+.core_elements h1 {
+ font-size: 30px;
+ padding: 0;
+}
+ .growth_hacking_right_container {
+ padding: 8%;
+}
+.growth_hacking_right_container h1 {
+ font-size: 40px;
+}
+ .growth_hacking .title {
+ padding: 22px 0;
+}
+ .growth_hacking_details p {
+ font-size: 26px;
+}
+.hacking {
+ padding: 5%;
+}
+.hacking h1 {
+ font-size: 30px;
+ width: 100%;
+}
+ .hacking p {
+ font-size: 22px;
+ line-height: 30px;
+ width: 100%;
+}
+ .hacking p span {
+ font-size: 16px;
+ width: 100%;
+}
+.launch_strategy {
+ padding: 2%;
+}
+.launch_strategy h1 {
+ font-size: 30px;
+}
+ .launch_strategy p {
+ font-size: 22px;
+ line-height: 30px;
+ width: 100%;
+}
+ .launch_strategy p span {
+font-size: 18px;
+}
+.app_effort {
+ padding: 5%;
+}
+.app_effort h1 {
+ font-size: 30px;
+ width: 100%;
+}
+ .app_effort p {
+ font-size: 22px;
+ line-height: 30px;
+ width: 100%;
+}
+ .app_effort p span {
+ font-size: 18px;
+}
+
+/* aqusitation css end */
+
+   
+.strategy_header img {
+ padding: 34% 0 0;
+}
+.strategy_header h1 {
+ font-size: 30px;
+}
+ .strategy_header p {
+ font-size: 18px;
+}
+ .strategy_box h2 {
+ font-size: 26px;
+}
+ .research_left_container {
+ padding: 5%;
+}
+ .research_left_container h1 {
+font-size: 40px;
+}
+.research_left_container p {
+ font-size: 16px;
+}
+.research_details p {
+font-size: 22px;
+}
+ .quotation img {
+display: none;
+}
+.quotation p {
+ font-size: 22px;
+ width: 100%;
+}
+ .quote_name {
+font-size: 16px;
+}
+ .scoping_right_container {
+padding: 5%;
+}
+ .scoping_right_container h1 {
+ font-size: 40px;
+}
+ .scoping_right_container p {
+font-size: 16px;
+}
+.scoping_details p {
+ font-size: 22px;
+}
+ .technovate_left_container {
+padding: 5%;
+}
+.technovate_left_container h1 {
+font-size: 40px;
+}
+.technovate_left_container p {
+ font-size: 16px;
+}
+.technovate_details p {
+ font-size: 22px;
+}
+ .business_right_container {
+ padding: 5%;
+}
+ .business_right_container h1 {
+ font-size: 40px;
+}
+ .business_right_container p {
+ font-size: 16px;
+}
+ .business_details p {
+ font-size: 22px;
+}
+ .navbar-nav > li > a {
+ font-size: 12px;
+ padding-bottom: 16px;
+ padding-top: 16px;
+ text-align: center;
+}
+ .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+ background-color: #4c5bea;
+ border-bottom: none;
+ color: #fff;
+}
+ .cl-effect-1 a span {
+margin: 50px 0 !important;
+}
+ .cl-effect-2 a span {
+margin: 50px 0 !important;
+}
+ .cl-effect-3 a span {
+margin: 50px 0 !important;
+}
+ #js-filters-awesome-work {
+ margin: 50px 0 0;
+}
+ .inner_work_text h1 {
+ font-size: 30px;
+}
+.inner_work_text p {
+ font-size: 16px;
+ padding: 47% 0 0;
+}
+ .inner_work h1 {
+ font-size: 23px;
+ margin: 50px 0;
+}
+ .challenge h1 {
+ font-size: 30px;
+}
+.challenge p {
+ font-size: 15px;
+}
+.game_stage h2 {
+font-size:30px;
+}
+.how_it_content h5 {
+ font-size: 24px;
+}
+.hd_more {
+ margin: 0 118px 34px;
+}
+ .ic_poly {
+display:none;
+}
+.warm_stage h2 {
+ font-size: 30px;
+}
+.how_do p {
+ font-size: 14px;
+ padding: 44% 0 0;
+}
+.how_do h1 {
+ font-size: 34px;
+}
+ .banner-text {
+ padding-top: 45%;
+}
+ .banner-text h1 {
+ font-size: 32px;
+}
+ .talk a {
+ font-size: 52px !important;
+}
+ .testimonials h1 {
+ font-size: 30px;
+ margin: 60px 0;
+}
+.works h1 {
+ font-size: 30px;
+ margin: 60px 0;
+}
+.teams h1 {
+ font-size: 30px;
+ margin: 60px 0;
+}
+.features h1 {
+ font-size: 30px;
+ margin: 60px 0;
+}
+ .footer-top h1 {
+ font-size: 30px;
+ margin-bottom: 50px;
+}
+ .development h2 {
+ font-size: 30px;
+}
+ .choose_banner_text p {
+ font-size: 14px;
+ padding: 44% 0 0;
+}
+ .choose_banner_text h1 {
+ font-size: 34px;
+}
+ .more_text {
+ font-size: 32px;
+ margin: 60px 0;
+}
+.allurive_inn_right {
+ border-left: 1px solid #fff;
+ float: left;
+ margin-top: 40px;
+ padding: 0 20px;
+ width: 100%;
+}
+figcaption {
+ height: 100%;
+}
+}
+ @media only screen and (max-width: 360px) {
+.hd_more {
+ margin: 0 60px 34px;
+}
+.skoop_logo {
+    margin: 8px auto 0;
+    width: 30% !important;
+}
+.app_links img {
+    margin: 0 8px 10px 40px !important;
+    width: 60% !important;
+}
+
+
+.lokatrain_logo {
+ margin: 8px auto 0;
+ width:30% !important;
+}
+
+
+.fush_logo {
+ margin: 8px auto 0;
+ width:30% !important;
+}
+}
+@media screen and (max-width: 320px) {
+ .skoop_phn {
+ left: 0;
+ position: relative;
+ top: 0;
+}
+ .skoop_logo {
+ margin: 10px auto 0;
+}
+.skp_right_container {
+ margin: 10px 0;
+ text-align: center;
+}
+.skp_right_container h1 {
+ font-size: 30px;
+}
+ .skp_right_container p {
+ font-size: 14px;
+ margin: 10px auto;
+ text-align: center;
+ width: 100%;
+}
+ .app_links {
+ margin: 10px 0;
+}
+ .app_links img {
+ margin: 0 auto 8px !important;
+ width: 90% !important;
+}
+ .fush_logo {
+ margin: 8px auto 0;
+}
+.fush_right_container h1 {
+ font-size: 30px;
+}
+.fush_right_container {
+ margin: 10px 0;
+}
+ .fush_right_container p {
+ font-size: 14px;
+ margin: 10px auto;
+ text-align: center;
+ width: 100%;
+}
+.fush_phn {
+ top: 0;
+}
+ .lokatrain_phn {
+ top: 0;
+}
+ .lokatrain_logo {
+ margin: 10px auto 0;
+}
+ .lokatrain_right_container {
+ margin: 10px 0;
+}
+ .lokatrain_right_container h1 {
+ font-size: 30px;
+}
+.lokatrain_right_container p {
+ font-size: 14px;
+ margin: 10px auto;
+ text-align: center;
+ width: 100%;
+}
+ .skp {
+ padding: 4% !important;
+}
+
+ .cl-effect-1 a span {
+margin: 50px 0 !important;
+}
+ .fush {
+ padding: 4% !important;
+}
+ .cl-effect-2 a span {
+margin: 50px 0 !important;
+}
+ .lokatrain {
+ padding: 4% !important;
+}
+ .cl-effect-3 a span {
+margin: 50px 0 !important;
+}
+ .hd_more {
+ margin: 0 50px 34px;
+}
+ .banner-text {
+ padding-top: 55%;
+}
+ .testimonials blockquote {
+ padding: 20px 5% 0;
+}
+ .testimonials p {
+ font-size: 26px;
+}
+}
+ @media (min-width:769px) and (max-width:991px) {
+
+.testimonials{width:95% !important;}
+.navbar-header{width:30%;}
+.navbar-collapse{width:70% !important;}
+ .investment_right_container h1 {
+font-size: 54px;
+}
+}
+@media (min-width:992px) and (max-width:1199px) {
+.nav>li>a{padding-left:25px !important; padding-right:25px !important;}
+.testimonials{width:95% !important;}
+ .iterations h1, .investment_right_container h1, .roadmap_left_container h1, .evaluation h1, .wireframing_left_container h1, .prototyping_left_container h1 {
+font-size: 44px;
+}
+#investment, #roadmap {
+text-align: center;
+}
+.analytics_header img {
+margin:0px auto;
+}
+ .work {
+ min-height: auto;
+}
+ .navbar-brand {
+ padding: 27px 15px;
+}
+}
+
+
+
+/*my css*/
+
+
+ @media only screen and (max-width: 767px) {
+.flexslider .slides li{
+
+}
+
+#testimonials{
+width:100% !important;
+}
+
+.learn_more_btn a{
+font-size:40px;
+}
+
+.services_ad_inner h1{
+font-size:40px!important;
+}
+.quotes p,.quotes cite{
+font-size:12px;
+}
+.quotes {
+width:95%;
+}
+.app_links {
+    margin: 20px 13px !important;
+}
+.submit{
+padding:8px 20px;
+}
+.quotes p{
+width:100%;
+}
+.flexslider .slides img{
+width:100%;
+}
+.footer .col-sm-6 p{
+font-size:22px;
+}
+.footer .row{
+display:inline-block;
+}
+.hidden-xs{
+display:block;
+}
+.visible-xs{
+display:none;
+}
+
+}
+@media (min-width:768px){
+.hidden-xs{
+display:none;
+}
+.visible-xs{
+display:block;
+}
+ 
+}
+
+@media (min-width:1281px) and (max-width:1366px) {
+    .skoop_phn{
+        top:152px;
+    }
+    .fush_phn{
+        top:190px;
+    }
+    .lokatrain_phn{
+        top:156px;
+    }
+}
+
+@media (min-width:1193px) and (max-width:1280px) {
+   /* .skoop_phn{
+        top:152px;
+    }
+    .fush_phn{
+        top:190px;
+    }*/
+    .lokatrain_phn{
+        top:157px;
+    }
+}
+
+
+
+@media (min-width:768px) and (max-width:992px) {
+
+/*header at tablet*/
+.navbar-brand {
+    float: none;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    padding: 0 !important;
+    display: inline-block;
+
+   
+}
+
+.menu-codebrew_menu-container{
+    display: inline-block;
+    width: 100%;
+}
+.navbar-collapse{
+    width: 100% !important;
+}
+
+
+.navbar-brand img{
+    margin-left: 8%;
+    margin-top: 15px;
+}
+.navbar{
+ display: inline-block;
+width:100%;
+}
+.navbar-header{
+        width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+.nav > li > a {
+    padding: 10px 11px !important;
+}
+.nav > li:last-child > a{
+    margin-top: -1px;
+}
+
+.ic_rocket{
+    margin:0px auto;
+}
+.skoop_phn{
+        width: 40% !important;
+}
+
+}
+
+
+
+/* Contact page*/
+.right_contact p{
+font-size: 16px;
+    margin: 30px 0;
+}
+
+.right_contact{
+    padding-left: 100px;
+}
+
+.right_contact h3{
+    margin-top: 0;
+    font-size: 30px;
+}
+
+.right_contact h4{
+    font-size: 24px;
+        color: #676478;
+    font-family: 'proxima_novablack';
+}
+
+.pos_head a {
+    color: #ba3e70 !important;
+}
+
+.pos_list ul li{
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.gallery_bg img{
+    width: 100%;
+}
+
+.pos_list ul li.active{
+    color: #ba3e70;
+}
